@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: DEVLAB
+pool: DESKTOP-B9TNMDP
 
 steps:
 - script: echo "Stage 1 - Setting up Java version."
